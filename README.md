@@ -18,11 +18,9 @@ Demo and Illustrations: [Custom Date Range Calendar](https://wputopia.com/insigh
 
 ## Installation
 
-1. Download the plugin files
-2. Create a new folder called `custom-date-range-calendar` in your `/wp-content/plugins/` directory
-3. Upload the following files to the folder:
-   - `custom-date-range.php` (main plugin file)
-   - `js/calendar.js` (JavaScript for AJAX functionality)
+1. Download the plugin files from "realeases"
+2. Install the zip file as other WordPress plugins
+
 
 ## Usage
 
