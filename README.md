@@ -2,7 +2,7 @@
 
 A WordPress plugin that allows you to set custom date ranges for your posts and display them in an interactive calendar widget.
 
-Originally inspired by the article: [Custom Date Range Calendar](https://wputopia.com/insights/custom-date-range-calendar)
+Demo and Illustrations: [Custom Date Range Calendar](https://wputopia.com/insights/custom-date-range-calendar)
 
 ## Features
 
